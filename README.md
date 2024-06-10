@@ -1,0 +1,1 @@
+A project about creating a brutalist website for recipes. The project will demostrate html knowledge.
